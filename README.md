@@ -1,4 +1,3 @@
-# eta-prediction
 # NYC Taxi ETA — Gobblecube Hiring Challenge
 
 Predicts NYC taxi trip duration (seconds) from pickup/dropoff coordinates and
